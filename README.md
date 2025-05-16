@@ -1,3 +1,5 @@
+<img src="https://github.com/IvanSuharev/CheatOlymp/blob/master/img.png">
+---
 <https://github.com/foreverbell/acm-icpc-cheat-sheet/tree/master>
 ---
 <https://github.com/wechicken456/ICPC-Cheat-Sheet>
