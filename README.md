@@ -1,4 +1,4 @@
-<img src="https://github.com/IvanSuharev/CheatOlymp/blob/master/img.png" height="100" width="100">
+<img src="https://github.com/IvanSuharev/CheatOlymp/blob/master/img.png" hight="100" >
 
 <https://github.com/foreverbell/acm-icpc-cheat-sheet/tree/master>
 ---
